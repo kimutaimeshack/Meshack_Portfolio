@@ -1,9 +1,11 @@
 
 
 
+
 /*---------- navigation bar features--------- */
 nav{
   background-color: aliceblue;
+
 }
 .navigation_links{
   text-decoration: none;
@@ -11,6 +13,7 @@ nav{
 .links {
   text-align: right;
   padding-right: 100px;
+ 
 }
 .imagelogo {
   text-align: left;
@@ -22,6 +25,7 @@ nav{
   outline: none;
   text-decoration: none;
   padding-top: 280px;
+  
    
 }
 
@@ -29,3 +33,31 @@ nav{
 .nav-link.active {
   color: #0BCEAF;
 }  
+
+
+/* ------HOME CSS */
+.container{
+  background-color: blue;
+}
+
+.about-img {
+float: right;
+margin-left: 0px;
+margin-top: 0px;
+width: 700px;
+height: 500px;
+border-radius: 200%;
+overflow: hidden;
+}
+
+
+/* section */
+.section {
+  padding-bottom: 5rem;
+}
+
+.section-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+}
