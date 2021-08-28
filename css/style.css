@@ -1,14 +1,7 @@
 
 
-/* .about-img {
-  margin-left: -100px;
-  right: -60px;
-  margin-top: 100px;
-} */
 
-
-
-/* navigation bar features */
+/*---------- navigation bar features--------- */
 nav{
   background-color: aliceblue;
 }
@@ -17,19 +10,22 @@ nav{
 }
 .links {
   text-align: right;
-  padding-right: 200px;
+  padding-right: 100px;
 }
 .imagelogo {
   text-align: left;
 }
-/* .nav-link {
-  padding: 25px 10px;
-  color: #343a40;
+ .nav-link {
+  padding: 25px 20px;
+  color: #0859b6;
   font-weight: 500;
   outline: none;
+  text-decoration: none;
+  padding-top: 280px;
+   
 }
 
 .nav-link:hover,
 .nav-link.active {
   color: #0BCEAF;
-} */
+}  
