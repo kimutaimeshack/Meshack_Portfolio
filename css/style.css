@@ -54,7 +54,7 @@ height: 500px;
 border-radius: 200%;
 overflow: hidden;
 }
-/* .greeting {
+.greeting {
   text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
@@ -80,9 +80,9 @@ overflow: hidden;
     margin: 4px 2px;
     cursor: pointer;
   
-} */
+}
 
-  /* Mission AND Vision css */
+  /* Home page css */
 
   .homepage {
     padding: 0 2px;
