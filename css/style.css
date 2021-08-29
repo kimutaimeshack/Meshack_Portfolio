@@ -53,21 +53,21 @@ nav{
     display: flex;
     justify-content: center;
   }
-  .box1{
-    text-align: left;
+ 
+  .imagehome{
+      text-align: left;
   }
-  .box2 {
-    text-align: center;
-    height: 400px;
-    width: 500px;
-  }
-
+.profilebox{
+text-align: center;
+height: 400px;
+width: 500px;
+}
 .container{
   background-color: blue;
 }
 
 .about-img {
-  padding-top: 12px;
+padding-top: 12px;
 text-align: justify;
 margin-left: 0px;
 margin-top: 0px;
@@ -139,8 +139,20 @@ overflow: hidden;
   color: #0859b6;
 }
 
-
-
+.box2head{
+  padding-left: 20px;
+}
+.abouttitle{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 30px;
+}
+.mydetails{
+width: auto;
+display: flex;
+}
+/* .seconddetails{
+  float: left;
+} */
 
 /* section */
 /* .section {
