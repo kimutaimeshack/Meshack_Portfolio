@@ -41,6 +41,21 @@ nav{
 
 
 /* Home page css */
+
+
+  .homepage {
+    padding: 0 2px;
+    Background-Color: #e1e3e1;
+  }
+
+  .boxes {
+    width: auto;
+    display: flex;
+    justify-content: center;
+  }
+
+  box2 {}
+
 .container{
   background-color: blue;
 }
@@ -94,21 +109,7 @@ overflow: hidden;
   
 }
 
-  
 
-  .homepage {
-    padding: 0 2px;
-    Background-Color: #e1e3e1;
-  }
-
-  .boxes {
-    width: auto;
-    display: flex;
-    justify-content: center;
-  }
-  box2{
-
-  }
   
 
 
