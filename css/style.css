@@ -117,11 +117,10 @@ overflow: hidden;
 
 /* ABOUT CSS */
 .abouthead{
-  padding: 0px 0px 0px 0px ;
-  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 100px;
   
 }
 .aboutheadcontent{
