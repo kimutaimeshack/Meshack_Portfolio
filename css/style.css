@@ -51,6 +51,27 @@ overflow: hidden;
 }
 
 
+  /* Mission AND Vision css */
+
+  .homepage {
+    padding: 0 2px;
+    Background-Color: #e1e3e1;
+  }
+
+  .boxes {
+    width: auto;
+    display: flex;
+    justify-content: center;
+  }
+  box2{
+    
+  }
+  
+
+
+
+
+
 /* section */
 .section {
   padding-bottom: 5rem;
