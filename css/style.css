@@ -53,20 +53,27 @@ nav{
     display: flex;
     justify-content: center;
   }
-
-  box2 {}
+  .box1{
+    text-align: left;
+  }
+  .box2 {
+    text-align: center;
+    height: 400px;
+    width: 500px;
+  }
 
 .container{
   background-color: blue;
 }
 
 .about-img {
-float: right;
+  padding-top: 12px;
+text-align: justify;
 margin-left: 0px;
 margin-top: 0px;
-width: 700px;
-height: 500px;
-border-radius: 200%;
+width: 400px;
+height: 400px;
+border-radius: 100%;
 overflow: hidden;
 }
 .greeting {
