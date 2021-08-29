@@ -116,13 +116,6 @@ overflow: hidden;
 
 
 /* ABOUT CSS */
-.abouthead{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100px;
-  
-}
 .aboutheadcontent{
   font-size: 130px;
   font-family: Tahoma;
@@ -203,3 +196,13 @@ color: indigo;
   margin: 0 auto;
   max-width: 1170px;
 } */
+
+/*----------general css ---------- */
+.titlepage {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+
+}
