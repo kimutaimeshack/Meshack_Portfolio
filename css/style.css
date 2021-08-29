@@ -40,7 +40,7 @@ nav{
 }  
 
 
-/* ------HOME CSS */
+/* Home page css */
 .container{
   background-color: blue;
 }
@@ -55,6 +55,7 @@ border-radius: 200%;
 overflow: hidden;
 }
 .greeting {
+  padding-top: 60px;
   text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
@@ -67,6 +68,16 @@ overflow: hidden;
 
 .display1{
   text-align: center;
+  font-weight: lighter;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.desc{
+  text-align: justify;
+  font-size: 12px;
+  font-weight: lighter;
+}
+.actions{
+  padding-top: 14px;
 }
 .btn{
     background-color: #4CAF50;
@@ -79,10 +90,11 @@ overflow: hidden;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+    border-radius: 15px;
   
 }
 
-  /* Home page css */
+  
 
   .homepage {
     padding: 0 2px;
