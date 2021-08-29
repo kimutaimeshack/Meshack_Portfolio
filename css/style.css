@@ -53,10 +53,7 @@ nav{
     display: flex;
     justify-content: center;
   }
- 
-  .imagehome{
-      text-align: left;
-  }
+
 .profilebox{
 text-align: center;
 height: 400px;
@@ -125,11 +122,13 @@ overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 .aboutheadcontent{
-  font-size: 120px;
+  font-size: 130px;
   font-family: Tahoma;
   color: #dee2e6;
+ 
 }
   
 .aboutheadcontent1{
@@ -137,22 +136,45 @@ overflow: hidden;
   font-weight: bolder;
   text-align: center;
   color: #0859b6;
+  font-size: 60px;
+  
 }
-
+.aboutmecontent{
+   width: auto;
+   display: flex;
+   justify-content: center;
+  
+}
+.imagehome{
+  text-align: center;
+}
 .box2head{
-  padding-left: 20px;
+  text-align: center;
+  margin-top: 0px;
+  
+  
 }
 .abouttitle{
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 30px;
+  font-size: 50px;
+  
+ 
 }
 .mydetails{
 width: auto;
 display: flex;
+justify-content: center;
+padding-left: 30px;
+font-size: 20px;
+
 }
-/* .seconddetails{
-  float: left;
-} */
+#hirebuttons{
+  text-align: center;
+}
+ .seconddetails{
+  text-align: center;
+  padding-left: 30px;
+} 
 
 /* section */
 /* .section {
