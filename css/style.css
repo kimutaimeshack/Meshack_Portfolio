@@ -117,14 +117,33 @@ overflow: hidden;
 }
 
 
-  
 
+/* ABOUT CSS */
+.abouthead{
+  padding: 0px 0px 0px 0px ;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aboutheadcontent{
+  font-size: 120px;
+  font-family: Tahoma;
+  color: #dee2e6;
+}
+  
+.aboutheadcontent1{
+  position:absolute;
+  font-weight: bolder;
+  text-align: center;
+  color: #0859b6;
+}
 
 
 
 
 /* section */
-.section {
+/* .section {
   padding-bottom: 5rem;
 }
 
@@ -132,4 +151,4 @@ overflow: hidden;
   width: 90vw;
   margin: 0 auto;
   max-width: 1170px;
-}
+} */
