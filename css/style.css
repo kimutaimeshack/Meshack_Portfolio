@@ -146,17 +146,17 @@ overflow: hidden;
   
 }
 .imagehome{
-  text-align: center;
+  padding-top: 90px;
 }
 .box2head{
   text-align: center;
-  margin-top: 0px;
+ padding: 20px;
   
   
 }
 .abouttitle{
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 50px;
+  font-size: 40px;
   
  
 }
@@ -164,17 +164,24 @@ overflow: hidden;
 width: auto;
 display: flex;
 justify-content: center;
-padding-left: 30px;
-font-size: 20px;
-
+padding-left: 10px;
+font-size: 24px;
 }
+
 #hirebuttons{
   text-align: center;
 }
  .seconddetails{
   text-align: center;
-  padding-left: 30px;
+  padding-left: 130px;
 } 
+span.text-secondary {
+text-align: center;
+text-decoration: none;
+font-weight: lighter;
+font-size: 14px;
+color: indigo;
+}
 
 /* section */
 /* .section {
