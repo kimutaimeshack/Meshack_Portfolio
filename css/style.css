@@ -265,6 +265,9 @@ padding-top: 40px;
  height: 30px;
  width: 280px;
 }
+#contact{
+  background-color: darkgray;
+}
 /* --------end of Contact page css ---------- */
 /* section */
 /* .section {
