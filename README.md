@@ -1,6 +1,6 @@
 ## MY_PORTFOLIO
 ## Author
-*MESHACK KIMUTAI
+* MESHACK KIMUTAI
 
 
 <table>
