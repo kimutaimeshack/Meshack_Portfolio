@@ -249,8 +249,17 @@ padding-top: 40px;
 }
 
 
-/* --------end of Service css ---------- */
 
+
+/* --------end of Service css ---------- */
+/* --------start Contact page css ---------- */
+
+.formproperties{
+  text-align: center;
+ 
+
+}
+/* --------end of Contact page css ---------- */
 /* section */
 /* .section {
   padding-bottom: 5rem;
