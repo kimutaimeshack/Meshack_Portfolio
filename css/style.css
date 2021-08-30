@@ -256,8 +256,14 @@ padding-top: 40px;
 
 .formproperties{
   text-align: center;
- 
+}
 
+.nametext{
+  padding: 10px;
+}
+.formp{
+ height: 30px;
+ width: 280px;
 }
 /* --------end of Contact page css ---------- */
 /* section */
