@@ -192,33 +192,47 @@ color: indigo;
   text-align: center;
 
 }
+#myeducation {
+  padding-top: 30px;
+  text-align: center;
+
+}
 
 .myeducationdetails{
-  padding-left: 265px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-left: 30px;
 }
 .borderclass{
 border-top-right-radius: #0859b6;
 border-left: 5px solid blue;
+padding-top: 40px;
 }
 
 .positionclass{
-  padding-left: 20px;
   display: block;
+  padding-left: 30px;
 }
 .course{
-  padding-left: 30px;
-  padding-top: 30px;
-  font-size: 30px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
 }
+.school{
 
-.circledot{
-   position: relative;
-   margin: 7em auto;
-   width: 16em;
-   height: 16em;
-   border-radius: 50%;
-   background: lightblue;
+  font-size: 15px;
+
+}
+.EDUTITLE{
+  text-align: center;
+    color: #0859b6;
+    font-size: 30px;
+    font-family: 'Lucida Sans Unicode',
+    Geneva,
+    Verdana,
+    sans-serif;
 }
 
 
