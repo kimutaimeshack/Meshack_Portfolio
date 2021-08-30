@@ -187,8 +187,17 @@ color: indigo;
 
 
 
+/* ----------start Education css - ........ */
+.myeducationdetails{
+  padding-left: 100px;
 
+}
+.borderclass{
+border-top-right-radius: #0859b6;
+border-left: 5px solid blue;
+}
 
+/* --------end of skills css ---------- */
 
 /* section */
 /* .section {
