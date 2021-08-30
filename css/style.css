@@ -240,6 +240,15 @@ padding-top: 40px;
 
 
 /* --------end of Service css ---------- */
+.myboxmodel{
+  background-color: #4CAF50;
+  width: 300px;
+  border: 15px solid green;
+  padding: 45px;
+  margin: 25px;
+}
+
+
 /* --------end of Service css ---------- */
 
 /* section */
