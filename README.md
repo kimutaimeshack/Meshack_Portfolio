@@ -15,6 +15,7 @@ MESHACK KIMUTAI
 
 *********
 ### Home page
+![alt text](https://github.com/kimutaimeshack/Meshack_Portfolio/blob/main/img/portfolio.png)
 
 ## project live link
 Here is a working live link : https://kimutaimeshack.github.io/Meshack_Portfolio/
