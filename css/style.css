@@ -268,6 +268,13 @@ padding-top: 40px;
 #contact{
   background-color: darkgray;
 }
+
+
+
+.footer{
+  text-align: center;
+  background-color: darkslateblue;
+}
 /* --------end of Contact page css ---------- */
 /* section */
 /* .section {
