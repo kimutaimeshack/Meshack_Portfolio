@@ -234,16 +234,33 @@ padding-top: 40px;
     Verdana,
     sans-serif;
 }
-
+#education{
+  background-color: whitesmoke;
+}
 
 /* --------end of Education css ---------- */
 
 
 /* --------end of Service css ---------- */
+.servicesboxmodel {
+  background-color: #bbbdbb;
+  border: 5px solid rgb(35, 39, 38);
+  padding: 13px;
+  margin: 5px;
+  height: 200px;
+  width: 280px;
+}
+
+#service{
+  background-color: whitesmoke;
+
+}
+
+
 .servicemyboxmodel {
   background-color: #bbbdbb;
   border: 5px solid rgb(35, 39, 38);
-  padding: 3px;
+  padding: 13px;
   margin: 5px;
   height:350px;
   width: 300px;
