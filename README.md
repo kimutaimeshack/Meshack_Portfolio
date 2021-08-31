@@ -18,17 +18,13 @@ MESHACK KIMUTAI
 *********
 ## project live link
 Here is a working live link : https://kimutaimeshack.github.io/Meshack_Portfolio/
-*********
 
-## Technologies Used
-* HTML
-* CSS
 *********
 ## Development
 ### Prerequisites
 * Text editor eg Visual Studio Code
 * You need to have git installed. You can install it with the following command in your terminal
-`$ sudo apt install git-all`
+(`sudo apt install git-all')
 *********
 ### Setup Instruction
 To access this project on your local files, you can clone it using these steps
@@ -49,3 +45,9 @@ To fix a bug or enhance an existing module, follow these steps:
 - Create a Pull Request 
 
 *********
+
+*********
+## Technologies Used
+* HTML
+* CSS
+## License
