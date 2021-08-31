@@ -5,8 +5,6 @@
 /*---------- navigation bar features--------- */
 
 
-
-
 nav{
   background-color: aliceblue;
 
@@ -117,7 +115,7 @@ overflow: hidden;
 
 /*------------ ABOUT CSS ---------- */
 #about{
-  
+  background-color: bisque;
 
 }
 
@@ -238,10 +236,7 @@ padding-top: 40px;
   text-align: center;
     color: #0859b6;
     font-size: 30px;
-    font-family: 'Lucida Sans Unicode',
-    Geneva,
-    Verdana,
-    sans-serif;
+    font-family: 'Lucida Sans Unicode';
 }
 #education{
   background-color: rgb(225, 227, 225);
@@ -261,7 +256,7 @@ padding-top: 40px;
 }
 
 #service{
-  background-color: rgb(255, 215, 124);
+  background-color:darkgray;
 
 }
 
