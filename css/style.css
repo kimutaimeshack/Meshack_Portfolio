@@ -209,7 +209,7 @@ color: indigo;
   display: flex;
   justify-content: center;
   text-align: center;
-  padding-left: 30px;
+  padding-bottom: 20px;
 }
 .borderclass{
 border-top-right-radius: #0859b6;
