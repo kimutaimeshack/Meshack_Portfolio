@@ -115,7 +115,13 @@ overflow: hidden;
 
 
 
-/* ABOUT CSS */
+/*------------ ABOUT CSS ---------- */
+#about{
+  
+
+}
+
+
 .aboutheadcontent{
   font-size: 130px;
   font-family: Tahoma;
@@ -179,6 +185,9 @@ color: indigo;
 /* --------end of about css ---------- */
 
 /* ----------start skills css - ........ */
+#skills {
+  background-color: rgb(225, 227, 225);
+}
 .secondskills{
  padding-left: 130px;
 }
@@ -235,7 +244,7 @@ padding-top: 40px;
     sans-serif;
 }
 #education{
-  background-color: whitesmoke;
+  background-color: rgb(225, 227, 225);
 }
 
 /* --------end of Education css ---------- */
@@ -252,7 +261,7 @@ padding-top: 40px;
 }
 
 #service{
-  background-color: whitesmoke;
+  background-color: rgb(255, 215, 124);
 
 }
 
