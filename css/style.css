@@ -245,7 +245,7 @@ padding-top: 40px;
   border: 5px solid rgb(35, 39, 38);
   padding: 3px;
   margin: 5px;
-  height: 178px;
+  height:350px;
   width: 300px;
 }
 .desworkdone{
@@ -256,6 +256,8 @@ padding-top: 40px;
 }
 .imageworkdone{
   text-align: center;
+  height: 170px;
+  width: 300px;
 }
 
 
