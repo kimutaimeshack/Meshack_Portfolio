@@ -1,7 +1,9 @@
-## MY_PORTFOLIO
+# MY_PORTFOLIO
+******
 ## Author
-* MESHACK KIMUTAI
-
+MESHACK KIMUTAI
+******
+## Description
 
 <table>
 <tr>
@@ -11,15 +13,17 @@
 </tr>
 </table>
 
+******
 
 ## project live link
 Here is a working live link : https://kimutaimeshack.github.io/Meshack_Portfolio/
+******
 
 ## Technologies Used
 * HTML
 * CSS
-
-### Development
+******
+## Development
 Would you like to contribute? Welcome!
 
 To fix a bug or enhance an existing module, follow these steps:
