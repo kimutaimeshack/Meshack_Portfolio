@@ -1,8 +1,8 @@
 # MY_PORTFOLIO
-******
+*********
 ## Author
 MESHACK KIMUTAI
-******
+*********
 ## Description
 
 <table>
@@ -13,18 +13,19 @@ MESHACK KIMUTAI
 </tr>
 </table>
 
-******
+*********
+### Home page
 
 ## project live link
 Here is a working live link : https://kimutaimeshack.github.io/Meshack_Portfolio/
-******
+*********
 
 ## Technologies Used
 * HTML
 * CSS
-******
+*********
 ## Development
-Would you like to contribute? Welcome!
+### How to contribute
 
 To fix a bug or enhance an existing module, follow these steps:
 
@@ -36,4 +37,4 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin contribute-to-mesh`)
 - Create a Pull Request 
 
-
+*********
