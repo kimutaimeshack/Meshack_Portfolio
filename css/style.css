@@ -240,15 +240,22 @@ padding-top: 40px;
 
 
 /* --------end of Service css ---------- */
-.myboxmodel{
-  background-color: #4CAF50;
+.servicemyboxmodel {
+  background-color: #bbbdbb;
+  border: 5px solid rgb(35, 39, 38);
+  padding: 3px;
+  margin: 5px;
+  height: 178px;
   width: 300px;
-  border: 15px solid green;
-  padding: 45px;
-  margin: 25px;
 }
 .desworkdone{
+  font-size: 14px;
+  font-family:fantasy;
+  font-weight: lighter;
 
+}
+.imageworkdone{
+  text-align: center;
 }
 
 
