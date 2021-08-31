@@ -247,11 +247,16 @@ padding-top: 40px;
   padding: 45px;
   margin: 25px;
 }
+.desworkdone{
 
+}
 
 
 
 /* --------end of Service css ---------- */
+
+
+
 /* --------start Contact page css ---------- */
 
 .formproperties{
@@ -269,7 +274,12 @@ padding-top: 40px;
   background-color: darkgray;
 }
 
+/* --------end of Contact page css ---------- */
 
+
+
+
+/* --------start footer page css ---------- */
 
 .footer{
   text-align: center;
@@ -282,17 +292,10 @@ padding-top: 40px;
 .textwhite{
   color: black;
 }
-/* --------end of Contact page css ---------- */
-/* section */
-/* .section {
-  padding-bottom: 5rem;
-}
 
-.section-center {
-  width: 90vw;
-  margin: 0 auto;
-  max-width: 1170px;
-} */
+
+
+/* --------end of Footer page css ---------- */
 
 /*----------general css ---------- */
 .titlepage {
