@@ -24,7 +24,7 @@ Here is a working live link : https://kimutaimeshack.github.io/Meshack_Portfolio
 ### Prerequisites
 * Text editor eg Visual Studio Code
 * You need to have git installed. You can install it with the following command in your terminal
-(`sudo apt install git-all')
+(`sudo apt install git-all`)
 *********
 ### Setup Instruction
 To access this project on your local files, you can clone it using these steps
