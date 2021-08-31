@@ -45,11 +45,10 @@ To fix a bug or enhance an existing module, follow these steps:
 - Create a Pull Request 
 
 *********
-
-*********
 ## Technologies Used
 * HTML
 * CSS
+*********
 ## License
 This project is under:  
-[![License: MIT](https://github.com/kimutaimeshack/Meshack_Portfolio/blob/main/LICENSE)](/LICENSE)
+[License: MIT](https://github.com/kimutaimeshack/Meshack_Portfolio/blob/main/LICENSE)](/LICENSE)
