@@ -51,4 +51,4 @@ To fix a bug or enhance an existing module, follow these steps:
 *********
 ## License
 This project is under:  
-[License: MIT](https://github.com/kimutaimeshack/Meshack_Portfolio/blob/main/LICENSE)](/LICENSE)
+The  [MIT](https://github.com/kimutaimeshack/Meshack_Portfolio/blob/main/LICENSE)   LICENSE
